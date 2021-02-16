@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp\Co
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InputAndOutput", "InputAndOutput\InputAndOutput.csproj", "{3130384D-6E90-4DD7-8952-9C7DCE7F40AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoop", "ForLoop\ForLoop.csproj", "{789C9EFE-BC74-4647-8842-5FB73C92F74F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3130384D-6E90-4DD7-8952-9C7DCE7F40AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3130384D-6E90-4DD7-8952-9C7DCE7F40AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3130384D-6E90-4DD7-8952-9C7DCE7F40AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{789C9EFE-BC74-4647-8842-5FB73C92F74F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789C9EFE-BC74-4647-8842-5FB73C92F74F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789C9EFE-BC74-4647-8842-5FB73C92F74F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789C9EFE-BC74-4647-8842-5FB73C92F74F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
