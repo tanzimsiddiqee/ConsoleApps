@@ -5,13 +5,17 @@ namespace Inheritance
 {
     class A
     {
-        List<int> list = new List<int>();
+        public int Result()
+        {
+            return 11 / 5;
+        }
     }
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var ob = new A();
+            Console.WriteLine("Hello World! {0}", ob.Result());
         }
     }
 }
